@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Trading binance bot that connects to the binance API parse chart apply indicator to that chart and open orders on buying or selling some crypto currency.
 
 ## Installation
 
